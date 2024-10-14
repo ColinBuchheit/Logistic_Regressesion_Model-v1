@@ -107,7 +107,7 @@ A graph illustrating the cost function for both regularized and non-regularized 
 
 1. Clone the repository:
     ```bash
-    git clone https://github.com/[your-username]/shopping-prediction.git
+    git clone https://github.com/ColinBuchheit/Logistic_Regressesion_Model-v1
     ```
 2. Install the necessary libraries:
     ```bash
